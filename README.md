@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Razorsixfive
+- 👀 I’m interested in in code in python, c# sql og computer security and so on
+- 🌱 I’m currently learning c#, HTML and css 
+- 📫 How to reach me just write to me here
