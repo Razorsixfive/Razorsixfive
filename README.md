@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @Razorsixfive
-- 👀 I’m interested in in code in python, c#, sql, HTML and css and so on 
-- am very interested in cyber security, pentest and so on.
