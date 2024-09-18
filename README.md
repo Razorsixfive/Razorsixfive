@@ -10,10 +10,9 @@ I'm a recently graduated IT data Technician specialized in Programming at Syddan
 - **Specialties**: Debugging, Code Optimization, Game Development, System Architecture, and much more
 
 ## 🚀 Projects & Experience
-- Worked on various side project parts of a MMO backend development projects utilizing my skills in Golang and GDScript
+- Worked on various side projects as example parts of a MMO backend development project utilizing my skills in Golang and GDScript
 - Experience with designing and maintaining infrastructure with Kubernetes and Prometheus for monitoring
 - Engaged in ethical hacking exercises to ensure software security in simulated environments
-- Practical internships at OUH Clinical IT and TV2 Denmark, supporting enterprise-level systems
 
 Throughout my career, I've contributed to various projects, gaining hands-on experience with tools and technologies that are critical to modern software development. My interests include everything from cloud-native applications to building immersive game environments, and I am always eager to explore new technologies.
 
