@@ -74,6 +74,18 @@ I continue developing my skills through independent projects and technical exper
 
 I believe some of the best learning comes from building something challenging, breaking it, understanding why it broke, and improving it.
 
+
+## 🔗 Find Me Online
+
+### 🔐 Cybersecurity
+- [TryHackMe](https://tryhackme.com/p/razorsixfive)
+
+### 💻 Programming & Challenges
+- [HackerRank](https://www.hackerrank.com/profile/Razorsixfive)
+- [CodinGame](https://www.codingame.com/profile/7636f479e6f9984b7a3954ca133e3e142215544)
+- [CheckiO](https://py.checkio.org/user/Razorsixfive/)
+
+
 ## 🤝 Connect
 
 I'm always interested in discussing software engineering, backend architecture, cybersecurity, and interesting technical projects.
