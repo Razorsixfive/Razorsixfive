@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm @Razorsixfive
 
 ## About Me
-I'm a recently graduated IT data Technician specialized in Programming at Syddansk Erhvervsskole (SDE). With hands-on experience in software development and cybersecurity, including red and purple team operations, I have a strong passion for building secure, scalable, and high-performance systems. Whether it's working on large-scale infrastructure, game development or just a small program, I enjoy merging creativity with technical problem-solving.
+I'm a graduated IT data Technician specialized in Programming at Syddansk Erhvervsskole (SDE). With hands-on experience in software development and cybersecurity, including red and purple team operations, I have a strong passion for building secure, scalable, and high-performance systems. Whether it's working on large-scale infrastructure, game development or just a small program, I enjoy merging creativity with technical problem-solving.
 
 ## 🛠️ Tech Stack & Skills
 - **Programming Languages**: Go (Golang), JavaScript, C#, GDScript
