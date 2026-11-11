@@ -39,11 +39,11 @@ The project began before modern AI coding assistants reached their current capab
 
 While presented as a game, CybarTera is primarily a demonstration of my approach to backend engineering, complex system design, and solving technical challenges.
 
-### 🌍 World.gov | Satirical Web Project
+🌍 World.GOV | Clean Code. Broken Politics.
 
-A recent creative web project exploring satire through an interactive website.
+An open-source C#/.NET 10 project exploring political and economic history through software engineering satire. Built with Blazor WebAssembly, structured JSON data, schema validation, a custom CLI, automated testing, and GitHub Actions CI/CD.
 
-An opportunity to combine software development, creative thinking, and experimentation outside traditional backend applications.
+Source Code · Live Website
 
 ## 🔐 Cybersecurity
 
