@@ -1,23 +1,75 @@
-# Hi there! 👋 I'm @Razorsixfive
+# 👋 Hi, I'm Razorsixfive
 
-## About Me
-I'm a graduated IT data Technician specialized in Programming at Syddansk Erhvervsskole (SDE). With hands-on experience in software development and cybersecurity, including red and purple team operations, I have a strong passion for building secure, scalable, and high-performance systems. Whether it's working on large-scale infrastructure, game development or just a small program, I enjoy merging creativity with technical problem-solving.
+**Software Developer | Backend & Distributed Systems | Cybersecurity**
 
-## 🛠️ Tech Stack & Skills
-- **Programming Languages**: Go (Golang), JavaScript, C#, GDScript
-- **Technologies & Tools**: Kubernetes, Datadog, Prometheus, Git, CockroachDB
-- **Cybersecurity Focus**: Red Teaming, Purple Teaming, Ethical Hacking
-- **Specialties**: Debugging, Code Optimization, Game Development, System Architecture, and much more
+I'm a qualified IT Data Technician specializing in Programming, with a strong focus on backend development, distributed systems, cloud infrastructure, and cybersecurity.
 
-## 🚀 Projects & Experience
-- Worked on various side projects as example parts of a MMO backend development project utilizing my skills in Golang and GDScript
-- Experience with designing and maintaining infrastructure with Kubernetes and Prometheus for monitoring
-- Engaged in ethical hacking exercises to ensure software security in simulated environments
+I enjoy understanding how complex systems work, building them from the ground up, and exploring how they can be optimized, scaled, and secured.
 
-Throughout my career, I've contributed to various projects, gaining hands-on experience with tools and technologies that are critical to modern software development. My interests include everything from cloud-native applications to building immersive game environments, and I am always eager to explore new technologies.
+My interests range from backend architecture and real-time multiplayer networking to penetration testing, AI, and experimental software projects.
 
-## 🤝 Let’s Collaborate
-I’m always open to connecting and collaborating on open-source projects, software development, cybersecurity, or game design. Feel free to reach out if you're interested in working together or just want to discuss tech!
+## 🛠️ Tech Stack
 
-## 📫 How to Reach Me
-You can contact me through [LinkedIn](https://www.linkedin.com/in/razorsixfive/) or check out my projects on [GitHub](https://github.com/Razorsixfive).
+**Languages:** Go, C#, Python, JavaScript, GDScript
+
+**Backend & Infrastructure:** Docker, Kubernetes, CockroachDB, Prometheus, Datadog, Git
+
+**Cybersecurity:** Penetration Testing, Vulnerability Assessment, API Security, Red Teaming, Purple Teaming
+
+**Other Interests:** Distributed Systems, Game Development, Local LLMs, Automation, MCP Integrations
+
+## 🚀 Featured Projects
+
+### 🌌 CybarTera | Distributed MMO Architecture
+
+[Explore CybarTera](https://github.com/Razorsixfive/CybarTera)
+
+One of my most ambitious personal projects, developed independently as an experiment in large-scale multiplayer backend architecture.
+
+Built around a custom Go backend cluster, C# gameplay servers, CockroachDB, and Godot.
+
+**Technical highlights:**
+- Distributed backend and real-time server architecture
+- Persistent world data and multiplayer synchronization
+- Load balancing, region-based scaling, and server clustering
+- Server-side gameplay processing and world simulation
+- Account systems, networking, and security considerations
+
+The project began before modern AI coding assistants reached their current capabilities. Its foundational architecture and early implementation were the result of independent engineering, research, and experimentation.
+
+While presented as a game, CybarTera is primarily a demonstration of my approach to backend engineering, complex system design, and solving technical challenges.
+
+### 🌍 World.gov | Satirical Web Project
+
+A recent creative web project exploring satire through an interactive website.
+
+An opportunity to combine software development, creative thinking, and experimentation outside traditional backend applications.
+
+## 🔐 Cybersecurity
+
+Beyond software development, I actively explore offensive security and vulnerability research.
+
+My hands-on experience includes penetration testing exercises, API security testing, vulnerability analysis, and participation in bug bounty programs.
+
+I regularly use platforms such as TryHackMe, Hack The Box, and VulnHub to challenge and expand my practical skills.
+
+I'm currently preparing for the **CompTIA Security+ certification**.
+
+**TryHackMe:** https://tryhackme.com/p/razorsixfive
+
+## 🧠 Always Exploring
+
+I continue developing my skills through independent projects and technical experimentation, including:
+
+- Local AI and large language models
+- Automation and agent-based workflows
+- Secure backend architecture
+- Real-time systems and game development
+
+I believe some of the best learning comes from building something challenging, breaking it, understanding why it broke, and improving it.
+
+## 🤝 Connect
+
+I'm always interested in discussing software engineering, backend architecture, cybersecurity, and interesting technical projects.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/razorsixfive/).
