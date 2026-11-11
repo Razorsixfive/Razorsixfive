@@ -39,11 +39,17 @@ The project began before modern AI coding assistants reached their current capab
 
 While presented as a game, CybarTera is primarily a demonstration of my approach to backend engineering, complex system design, and solving technical challenges.
 
-🌍 World.GOV | Clean Code. Broken Politics.
 
-An open-source C#/.NET 10 project exploring political and economic history through software engineering satire. Built with Blazor WebAssembly, structured JSON data, schema validation, a custom CLI, automated testing, and GitHub Actions CI/CD.
+### 🌍 World.GOV | Clean Code. Broken Politics.
 
-Source Code · Live Website
+A small passion project combining C# development, web technologies, and political satire.
+
+Built with .NET 10 and Blazor WebAssembly, it explores structured data, validation, automated testing, and GitHub Actions workflows.
+
+Nothing too serious, just an excuse to experiment with technology, build something creative, and have a bit of fun along the way.
+
+🌐 [Live Website](https://razorsixfive.github.io/World.GOV/) | 💻 [Source Code](https://github.com/Razorsixfive/World.GOV)
+
 
 ## 🔐 Cybersecurity
 
